@@ -15,6 +15,11 @@ List of NextFlow workflows for benchmarking.
 
 ## RNA-seq
 
-## Single-cell RNA-seq
+## Single-cell/single-nucleus RNA-seq
 
 * [`decon_devmethod_workflow`](https://github.com/metamaden/decon_devmethod_workflow) -- Develop and test new bulk RNA-seq deconvolution methods using sc/snRNA-seq reference datasets.
+
+# See also
+
+* [`awesome-awesomeness`](https://github.com/bayandin/awesome-awesomeness) : Large list of "awesome-*" style resources.
+*  [`awesome-single-cell`](https://github.com/seandavi/awesome-single-cell) : Large list of single-cell RNA-seq resources.
